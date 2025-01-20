@@ -21,7 +21,7 @@ Este proyecto está diseñado para:
 
 ## 🌟 **Resultado Final**
 🎯 **Visualización del resultado final:**  
-La implementación final está disponible y es accesible a través de **GitHub Pages**:  
+La implementación final está disponible y es accesible a través de **GitHub Pages**: https://berto9675.github.io/grid-care-bears/
 
 ![image](https://github.com/user-attachments/assets/85843457-cb51-42ba-975c-82992fde8133) 
 
